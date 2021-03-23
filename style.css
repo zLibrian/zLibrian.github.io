@@ -1,0 +1,19 @@
+body{
+  background-color: #C7EBF0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.aboutme p  {
+
+}
+.stronger{
+  color: red;
+  font-style: italic;
+  font-weight: 900;
+}
+.diffSize{
+font-size: 20px;
+}
+.defaultSize{
+font-size: 15px;
+color:green;
+}
